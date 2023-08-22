@@ -1,1 +1,1 @@
-This the test file for GitHub.
+This the test file for GitHub.echo "# sample-code" >> README.md
